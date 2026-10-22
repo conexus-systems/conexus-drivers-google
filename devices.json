@@ -1,0 +1,616 @@
+[
+  {
+    "codename": "akita",
+    "name": "Pixel 8a",
+    "soc": "Google Tensor G3",
+    "lineage_device_tree": "android_device_google_akita",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/akita.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_akita",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "barbet",
+    "name": "Pixel 5a",
+    "soc": "Qualcomm SM7250 Snapdragon 765G",
+    "lineage_device_tree": "android_device_google_barbet",
+    "lineage_kernel_repo": "android_kernel_google_redbull",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/barbet.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_redbull (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_barbet",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "bluejay",
+    "name": "Pixel 6a",
+    "soc": "Google Tensor GS101",
+    "lineage_device_tree": "android_device_google_bluejay",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/bluejay.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_bluejay",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "bramble",
+    "name": "Pixel 4a 5G",
+    "soc": "Qualcomm SM7250 Snapdragon 765G",
+    "lineage_device_tree": "android_device_google_bramble",
+    "lineage_kernel_repo": "android_kernel_google_redbull",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/bramble.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_redbull (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_bramble",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "caiman",
+    "name": "Pixel 9 Pro",
+    "soc": "Google Tensor G4",
+    "lineage_device_tree": "android_device_google_caiman",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/caiman.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_caiman",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "cheetah",
+    "name": "Pixel 7 Pro",
+    "soc": "Google Tensor GS201",
+    "lineage_device_tree": "android_device_google_cheetah",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/cheetah.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_cheetah",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "comet",
+    "name": "Pixel 9 Pro Fold",
+    "soc": "Google Tensor G4",
+    "lineage_device_tree": "android_device_google_comet",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/comet.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_comet",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "coral",
+    "name": "Pixel 4 XL",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "lineage_device_tree": "android_device_google_coral",
+    "lineage_kernel_repo": "android_kernel_google_msm-4.14",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "17.1",
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/coral.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_msm-4.14 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_coral",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "felix",
+    "name": "Pixel Fold",
+    "soc": "Google Tensor GS201",
+    "lineage_device_tree": "android_device_google_felix",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/felix.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_felix",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "flame",
+    "name": "Pixel 4",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "lineage_device_tree": "android_device_google_flame",
+    "lineage_kernel_repo": "android_kernel_google_msm-4.14",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "17.1",
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/flame.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_msm-4.14 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_flame",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "husky",
+    "name": "Pixel 8 Pro",
+    "soc": "Google Tensor G3",
+    "lineage_device_tree": "android_device_google_husky",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/husky.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_husky",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "komodo",
+    "name": "Pixel 9 Pro XL",
+    "soc": "Google Tensor G4",
+    "lineage_device_tree": "android_device_google_komodo",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/komodo.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_komodo",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lynx",
+    "name": "Pixel 7a",
+    "soc": "Google Tensor GS201",
+    "lineage_device_tree": "android_device_google_lynx",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lynx.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_lynx",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "oriole",
+    "name": "Pixel 6",
+    "soc": "Google Tensor GS101",
+    "lineage_device_tree": "android_device_google_oriole",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/oriole.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_oriole",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "panther",
+    "name": "Pixel 7",
+    "soc": "Google Tensor GS201",
+    "lineage_device_tree": "android_device_google_panther",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/panther.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_panther",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "raven",
+    "name": "Pixel 6 Pro",
+    "soc": "Google Tensor GS101",
+    "lineage_device_tree": "android_device_google_raven",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/raven.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_raven",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "redfin",
+    "name": "Pixel 5",
+    "soc": "Qualcomm SM7250 Snapdragon 765G",
+    "lineage_device_tree": "android_device_google_redfin",
+    "lineage_kernel_repo": "android_kernel_google_redbull",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/redfin.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_redbull (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_redfin",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "shiba",
+    "name": "Pixel 8",
+    "soc": "Google Tensor G3",
+    "lineage_device_tree": "android_device_google_shiba",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/shiba.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_shiba",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "sunfish",
+    "name": "Pixel 4a",
+    "soc": "Qualcomm SM7150-AB Snapdragon 730G",
+    "lineage_device_tree": "android_device_google_sunfish",
+    "lineage_kernel_repo": "android_kernel_google_msm-4.14",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/sunfish.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_msm-4.14 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_sunfish",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "tangorpro",
+    "name": "Pixel Tablet",
+    "soc": "Google Tensor GS201",
+    "lineage_device_tree": "android_device_google_tangorpro",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/tangorpro.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_tangorpro",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "tegu",
+    "name": "Pixel 9a",
+    "soc": "Google Tensor G4",
+    "lineage_device_tree": "android_device_google_tegu",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/tegu.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_tegu",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "tokay",
+    "name": "Pixel 9",
+    "soc": "Google Tensor G4",
+    "lineage_device_tree": "android_device_google_tokay",
+    "lineage_kernel_repo": "android_kernel_google_gs-6.1_manifest",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/tokay.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_google_gs-6.1_manifest (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_google_tokay",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  }
+]
