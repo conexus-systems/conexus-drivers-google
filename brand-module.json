@@ -1,0 +1,94 @@
+{
+  "brand": "google",
+  "status": "unverified",
+  "devices": [
+    {
+      "codename": "akita",
+      "model": "Pixel 8a"
+    },
+    {
+      "codename": "barbet",
+      "model": "Pixel 5a"
+    },
+    {
+      "codename": "bluejay",
+      "model": "Pixel 6a"
+    },
+    {
+      "codename": "bramble",
+      "model": "Pixel 4a 5G"
+    },
+    {
+      "codename": "caiman",
+      "model": "Pixel 9 Pro"
+    },
+    {
+      "codename": "cheetah",
+      "model": "Pixel 7 Pro"
+    },
+    {
+      "codename": "comet",
+      "model": "Pixel 9 Pro Fold"
+    },
+    {
+      "codename": "coral",
+      "model": "Pixel 4 XL"
+    },
+    {
+      "codename": "felix",
+      "model": "Pixel Fold"
+    },
+    {
+      "codename": "flame",
+      "model": "Pixel 4"
+    },
+    {
+      "codename": "husky",
+      "model": "Pixel 8 Pro"
+    },
+    {
+      "codename": "komodo",
+      "model": "Pixel 9 Pro XL"
+    },
+    {
+      "codename": "lynx",
+      "model": "Pixel 7a"
+    },
+    {
+      "codename": "oriole",
+      "model": "Pixel 6"
+    },
+    {
+      "codename": "panther",
+      "model": "Pixel 7"
+    },
+    {
+      "codename": "raven",
+      "model": "Pixel 6 Pro"
+    },
+    {
+      "codename": "redfin",
+      "model": "Pixel 5"
+    },
+    {
+      "codename": "shiba",
+      "model": "Pixel 8"
+    },
+    {
+      "codename": "sunfish",
+      "model": "Pixel 4a"
+    },
+    {
+      "codename": "tangorpro",
+      "model": "Pixel Tablet"
+    },
+    {
+      "codename": "tegu",
+      "model": "Pixel 9a"
+    },
+    {
+      "codename": "tokay",
+      "model": "Pixel 9"
+    }
+  ]
+}
